@@ -5,3 +5,4 @@ let in_channel_of_bytes b =
   flush cout;
   close_out cout;
   open_in fn
+;;
